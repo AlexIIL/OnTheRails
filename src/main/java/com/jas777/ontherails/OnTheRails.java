@@ -32,13 +32,13 @@ public class OnTheRails {
     }
     
     @EventHandler
-    public void Init(FMLInitializationEvent event)
+    public void init(FMLInitializationEvent event)
     {
         
     }
     
     @EventHandler
-    public void PostInit(FMLPostInitializationEvent event)
+    public void postInit(FMLPostInitializationEvent event)
     {
         
     }
