@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "ontherails",
+  "name": "On The Rails",
+  "description": "Adds Trainsn stuff.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/jas777/OnTheRails",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["jas777", "Sascha_T", "Nightmare", "Ferdinand"],
+  "credits": "Jas777: Coding, Sascha_T: Coding, Nightmare: Coding, Ferdinand: you guessed it, Coding", 
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
