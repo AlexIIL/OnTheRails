@@ -9,6 +9,6 @@ public class Reference {
     public static final String ACCEPTED_VERSIONS = "[1.11.2]";
     
     //Proxies
-    public static final String CLIENT_PROXY_CLASS = "com.jas777.ontherails.proxy.ClientProxy";
-    public static final String SERVER_PROXY_CLASS ="com.jas777.ontherails.proxy.ServerProxy";
+    public static final String CLIENT_PROXY_CLASS = "io.github.jas777.ontherails.proxy.ClientProxy";
+    public static final String SERVER_PROXY_CLASS ="io.github.jas777.ontherails.proxy.ServerProxy";
 }
