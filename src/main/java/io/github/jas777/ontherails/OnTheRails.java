@@ -1,6 +1,6 @@
-package com.jas777.ontherails;
+package io.github.jas777.ontherails;
 
-import com.jas777.ontherails.proxy.CommonProxy;
+import io.github.jas777.ontherails.proxy.CommonProxy;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

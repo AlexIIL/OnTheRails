@@ -1,4 +1,4 @@
-package com.jas777.ontherails.proxy;
+package io.github.jas777.ontherails.proxy;
 
 public interface CommonProxy {
 

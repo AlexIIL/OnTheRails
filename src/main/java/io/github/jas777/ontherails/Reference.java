@@ -1,4 +1,4 @@
-package com.jas777.ontherails;
+package io.github.jas777.ontherails;
 
 public class Reference {
     
